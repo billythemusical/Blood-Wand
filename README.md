@@ -1,3 +1,5 @@
 # Blood-Wand
-The blog post for this project can be viewed here - billybennett.tv/pcomp/blood-wand/
-This was a mid-term project for Physical Computing at the ITP program at NYU, November 2018.
+October 2018
+A mid-term project by Louise Lessel and Billy Bennett for Physical Computing at the ITP Masters Program at NYU.
+The original blog post for this project can be viewed [here](https://billybennett.tv/pcomp/blood-wand/). </br>
+
